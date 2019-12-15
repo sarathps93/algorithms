@@ -10,4 +10,4 @@ A naive solution for looping through a big string to find the match for a small 
 6. Return the count
 
 ## Time complexity
-The time complexity is O(n^2)
+The worst case time complexity is O(mn)
