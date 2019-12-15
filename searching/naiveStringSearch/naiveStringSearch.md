@@ -1,4 +1,4 @@
-# String search
+# Naive String search
 A naive solution for looping through a big string to find the match for a small substring
 
 ## Pseudocode
