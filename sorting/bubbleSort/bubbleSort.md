@@ -8,6 +8,5 @@ A sorting algorithm where largest values bubbles up to thhe top.
 4. Return the array
 
 ## Big O
-
 1. Worst & Average case : O(n ^ 2)
 2. Nearly sorted data, best case: O(n)
